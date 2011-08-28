@@ -6,6 +6,6 @@ package se.stade.babbla
 		function get comparator():StringComparator;
 		
 		function get calendar():Calendar;
-		function get numericalSystem():NumericalSystem;
+		function get numericalSystem():NumberSystem;
 	}
 }

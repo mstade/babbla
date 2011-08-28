@@ -1,7 +1,7 @@
 package se.stade.babbla
 {
-	import se.stade.babbla.formats.DateFormat;
-	import se.stade.babbla.formats.TimeFormat;
+	import se.stade.babbla.formatting.DateFormat;
+	import se.stade.babbla.formatting.TimeFormat;
 	import se.stade.stilts.time.DateTime;
 	import se.stade.stilts.time.TimeSpan;
 

@@ -1,4 +1,4 @@
-package se.stade.babbla.formats
+package se.stade.babbla.formatting
 {
 	import se.stade.stilts.time.DayOfWeek;
 	

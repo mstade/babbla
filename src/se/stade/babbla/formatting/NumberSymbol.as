@@ -1,4 +1,4 @@
-package se.stade.babbla.formats
+package se.stade.babbla.formatting
 {
 	public final class NumberSymbol
 	{
